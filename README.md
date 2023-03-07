@@ -2,7 +2,7 @@
 
 In this practice you will serve static files inside the folder of an Express
 application:
-
+Hello
 ## Set up
 
 Run `npm install` the dependencies.
