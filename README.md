@@ -1,4 +1,5 @@
 # Practice - Serving Static Files in Express
+TEST
 
 In this practice you will serve static files inside the folder of an Express
 application:
